@@ -14,6 +14,7 @@ git clone https://github.com/CozartKevin/ShaderPlayground
 3. Navigate to a specific project folder and follow its individual 'README.md' for setup and usage instructions.
 
 ## Repository Structure
+```bash
 ShaderPlayground/
 |
 |- README.md
@@ -65,3 +66,4 @@ ShaderPlayground/
 |  |   |- (Other procedural texture projects)
 |  |
 |- (other directories for future projects)
+```
