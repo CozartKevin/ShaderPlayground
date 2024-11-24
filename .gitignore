@@ -30,3 +30,48 @@
 *.exe
 *.out
 *.app
+
+# CMake Generated Files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+
+# Visual Studio Generated Files
+*.sln
+*.vcxproj*
+*.user
+*.filters
+*.idb
+*.pdb
+*.ipch
+*.tlog/
+*.obj/
+*.log
+*.suo
+*.opendb
+*.VC.db
+
+# Backup and Temporary Files
+*.bak
+*.tmp
+*.swp
+*.DS_Store
+
+# OpenGL Related Artifacts (if applicable)
+*.shadercache/
+*.bin
+
+# IDE-Specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Third-Party Libraries
+/libraries/
+dependencies/
+
+# Debug Logs
+debug.log
+*.log
