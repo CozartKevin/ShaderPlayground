@@ -16,18 +16,18 @@ add_executable (BasicVertexShader   "src/main.cpp" "src/main.h")
 
 # Add include directories for GLFW
 target_include_directories(BasicVertexShader PRIVATE 
-    "C:/development/libraries/GLFW/include"
+    "D:/development/libraries/GLFW/include"
 )
 
 # Add library directories for GLFW
 target_link_directories(BasicVertexShader PRIVATE 
-    "C:/development/libraries/GLFW/lib"
+    "D:/development/libraries/GLFW/lib"
 )
 
 target_link_libraries(BasicVertexShader PRIVATE glfw3)
 
 target_include_directories(BasicVertexShader PRIVATE 
-    "C:/development/libraries/GLM"
+    "D:/development/libraries/GLM"
 )
 
 find_package(OpenGL REQUIRED)

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\",
+  "WorkspaceRootPath": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -25,46 +25,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.h",
+              "DocumentMoniker": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h",
+              "RelativeDocumentMoniker": "src\\main.h",
+              "ToolTip": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h",
+              "RelativeToolTip": "src\\main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T01:41:35.553Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt",
+              "DocumentMoniker": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt",
+              "ToolTip": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\CMakeLists.txt",
               "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCAAAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-11-24T07:36:41.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h",
-              "RelativeDocumentMoniker": "src\\main.h",
-              "ToolTip": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.h",
-              "RelativeToolTip": "src\\main.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-24T07:36:58.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp",
+              "DocumentMoniker": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp",
+              "ToolTip": "D:\\development\\GitHub\\ShaderPlayground\\Projects\\ShaderDemos\\BasicVertexShader\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T07:36:41.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T07:36:41.712Z"
             },
             {
               "$type": "Document",
@@ -73,8 +71,7 @@
               "DocumentMoniker": "CMake Overview Pages",
               "ToolTip": "CMake Overview Pages",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-24T07:36:10.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T07:36:10.014Z"
             }
           ]
         }
